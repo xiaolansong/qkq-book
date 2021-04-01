@@ -1,0 +1,23 @@
+{
+  "name": "qkq-book",
+  "version": "1.0.0",
+  "description": "这是一个GitBook自动化构建的demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolansong/qkq-book.git"
+  },
+  "keywords": [],
+  "author": "lubing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaolansong/qkq-book/issues"
+  },
+  "homepage": "https://github.com/xiaolansong/qkq-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
